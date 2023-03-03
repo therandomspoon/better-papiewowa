@@ -337,7 +337,7 @@ window.onload = function () {
 	}
 
 	// default goal time
-	Papiezowa.goal.setHours(8, 20, 0)
+	Papiezowa.goal.setHours(8, 22, 0)
 
 	// default events
 	Papiezowa.addOn(function () {
